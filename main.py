@@ -1,7 +1,7 @@
 def func_name():
     # some code
     s = "hello"
-    s += "world"
+    s += " world"
     s += "!"
     pass
 
